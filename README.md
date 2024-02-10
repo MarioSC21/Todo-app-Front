@@ -19,4 +19,4 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## TailwindCss
-Se esta usando tailwindCss en ves de materialUI , por el hecho que es mas personalizable y practica de usar
+Se esta usando tailwindCss en ves de materialUI , por el hecho que es mas personalizable y practico de usar
